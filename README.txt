@@ -1,5 +1,5 @@
 # Admin login 
-username :root
+username : root
 password ：root
 
 ## How to Install and Use
@@ -12,15 +12,18 @@ password ：root
 6. Upload the food-order.sql file and import it
 7.Open your web browser and check if you got the website running on your localhost()
 
-Video that tell you how to use 
-Video :
+Video that tell you how to use (take video by our group)
+Video :https://youtu.be/uyd9uSdsukg?si=4QsUtkyoe3pG0u5D
 
 
 Normal page :http://localhost/Food/
 Admin Login :http://localhost/Food/admin
 
+
+Form other(vijaythapa)
 We made this project by referring to the teachings on the youtube
 Refer :  https://www.youtube.com/watch?v=ZBgTzx46B8s&list=PLBLPjjQlnVXXBheMQrkv3UROskC0K1ctW
 
 We also rewrote the web page based on the Source code he provided
 Source code : https://github.com/vijaythapa333/web-design-course-restaurant
+
